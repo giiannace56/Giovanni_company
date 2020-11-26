@@ -1,0 +1,13 @@
+C:\Users\giian\Desktop\projeto passagens\bin\Debug\netcoreapp3.1\projeto passagens.exe
+C:\Users\giian\Desktop\projeto passagens\bin\Debug\netcoreapp3.1\projeto passagens.deps.json
+C:\Users\giian\Desktop\projeto passagens\bin\Debug\netcoreapp3.1\projeto passagens.runtimeconfig.json
+C:\Users\giian\Desktop\projeto passagens\bin\Debug\netcoreapp3.1\projeto passagens.runtimeconfig.dev.json
+C:\Users\giian\Desktop\projeto passagens\bin\Debug\netcoreapp3.1\projeto passagens.dll
+C:\Users\giian\Desktop\projeto passagens\bin\Debug\netcoreapp3.1\projeto passagens.pdb
+C:\Users\giian\Desktop\projeto passagens\obj\Debug\netcoreapp3.1\projeto passagens.csprojAssemblyReference.cache
+C:\Users\giian\Desktop\projeto passagens\obj\Debug\netcoreapp3.1\projeto passagens.AssemblyInfoInputs.cache
+C:\Users\giian\Desktop\projeto passagens\obj\Debug\netcoreapp3.1\projeto passagens.AssemblyInfo.cs
+C:\Users\giian\Desktop\projeto passagens\obj\Debug\netcoreapp3.1\projeto passagens.csproj.CoreCompileInputs.cache
+C:\Users\giian\Desktop\projeto passagens\obj\Debug\netcoreapp3.1\projeto passagens.dll
+C:\Users\giian\Desktop\projeto passagens\obj\Debug\netcoreapp3.1\projeto passagens.pdb
+C:\Users\giian\Desktop\projeto passagens\obj\Debug\netcoreapp3.1\projeto passagens.genruntimeconfig.cache
